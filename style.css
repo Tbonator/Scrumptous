@@ -233,3 +233,29 @@ line-height: 2.25rem; */
 	left:  838px;
 	background: rgba(250, 162, 225, 0.08);
 }
+
+/* Who are we */
+#Who_are_we {
+	min-height: 100vh;
+	background: #F6F7F9;
+	overflow: hidden;
+	display: flex;
+     align-items: center;
+     position: relative;
+}
+.Who_are_we-head{
+    width: 90%;
+    margin: auto;
+}
+.locations-head h2 {
+	padding: 1rem 0rem;
+	text-decoration: underline;
+	text-decoration-thickness: 0.5% ;
+/* padding: 3rem;
+    min-height: 30vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    text-align: center; */
