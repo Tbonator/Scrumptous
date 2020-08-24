@@ -181,6 +181,8 @@ line-height: 2.25rem; */
 }
 
 /* about section */
+
+
 .About {
 	min-height: 100vh;
 	width: 100%;
@@ -209,6 +211,7 @@ line-height: 2.25rem; */
 	line-height: 38px;
 	font-size:60px ;
 	margin: 10px auto;
+	font-family: 'Aclonica', sans-serif;
 }
 
 .About p {
@@ -225,8 +228,8 @@ line-height: 2.25rem; */
 }
 .rec{
 	position: absolute;
-	width: 283px;
-	height: 381px;
-	left: 874px;
-	top: 858px;
+	width: 200px;
+	height: 250px;
+	left:  838px;
+	background: rgba(250, 162, 225, 0.08);
 }
